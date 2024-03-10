@@ -9,6 +9,9 @@ This LAMP stack image is designed to be a development environment for building E
 - MySQL database server: Stores product information, user data, and other application data.
 - PHP: Provides server-side scripting capabilities for your E-Commerce application logic.
 
+<img src="https://github.com/aakashgoel2002/E-Commerce-LAMP/blob/main/dfd-export.png" alt="Data Flow Diagram" style="width:850px;"/>
+
+
 ### Docker Hub Image
 ---
 The built image is available on Docker Hub: https://hub.docker.com/repository/docker/aakashgoel2002/e-commerce-lamp/
