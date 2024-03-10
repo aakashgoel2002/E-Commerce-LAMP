@@ -2,6 +2,7 @@
 This project provides a Dockerfile to set up a LAMP stack (Linux, Apache, MySQL, PHP) for an E-Commerce application.
 
 ### Project Description
+---
 This LAMP stack image is designed to be a development environment for building E-commerce applications. It includes:
 
 - Apache web server: Serves your E-Commerce application files.
@@ -9,9 +10,11 @@ This LAMP stack image is designed to be a development environment for building E
 - PHP: Provides server-side scripting capabilities for your E-Commerce application logic.
 
 ### Docker Hub Image
+---
 The built image is available on Docker Hub: https://hub.docker.com/repository/docker/aakashgoel2002/e-commerce-lamp/
 
 ### Usage
+---
 __1. Pull the E-Commerce LAMP Stack Image:__ 
 ```bash
 docker pull aakashgoel2002/e-commerce-lamp
@@ -36,5 +39,6 @@ docker rm ecom-lamp
 ```
 
 ### Contributing
+---
 We welcome contributions to this project! Feel free to submit pull requests with improvements or additional features.
 
